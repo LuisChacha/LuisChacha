@@ -11,7 +11,11 @@ He desarrollado un sistema distribuido para demostrar la interoperabilidad entre
 * **[ms-auth (Python)](https://github.com/LuisChacha/fastapi-clean-architecture-auth):** Microservicio de autenticación con FastAPI y Clean Architecture. Es el "Identity Provider" del ecosistema.
 * **[ms-tasks-java (Java)](https://github.com/LuisChacha/ms-tasks-java):** Microservicio de gestión de tareas con Spring Boot 3. Consume y valida los JWT generados por el servicio de Python.
 
+##  💻 Otros proyectos :
 
+* 🌐 **[LearnLearnIrregularVerbs](https://github.com/LuisChacha/LearnIrregularVerbs):** Lista verbos irregulares en una página html y luego en otra por medio de un test te permite validar lo que has aprendido. Está buenísimo... Anímate a probarlo.!!!
+
+    * [Ver online](https://irregular-verbs.luischacha.com) Este sitio actualmente está publicado en un bucket de OCI(Oracle Cloud Infrastructure).
 
 ## 🛠️ Mi Stack Tecnológico
 * **Lenguajes:** .NET (C#, VB.NET), Java (Spring Boot), Python (FastAPI).
