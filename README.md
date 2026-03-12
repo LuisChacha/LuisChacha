@@ -8,8 +8,8 @@ Desarrollador apasionado por la arquitectura de software, la modernización de s
 ## 🏗️ Proyecto Destacado: Ecosistema Políglota
 He desarrollado un sistema distribuido para demostrar la interoperabilidad entre diferentes stacks modernos:
 
-* **[ms-auth (Python)](TU_LINK_AQUÍ):** Microservicio de autenticación con FastAPI y Clean Architecture. Es el "Identity Provider" del ecosistema.
-* **[ms-tasks-java (Java)](TU_LINK_AQUÍ):** Microservicio de gestión de tareas con Spring Boot 3. Consume y valida los JWT generados por el servicio de Python.
+* **[ms-auth (Python)](https://github.com/LuisChacha/fastapi-clean-architecture-auth):** Microservicio de autenticación con FastAPI y Clean Architecture. Es el "Identity Provider" del ecosistema.
+* **[ms-tasks-java (Java)](https://github.com/LuisChacha/ms-tasks-java):** Microservicio de gestión de tareas con Spring Boot 3. Consume y valida los JWT generados por el servicio de Python.
 
 
 
@@ -29,6 +29,4 @@ He desarrollado un sistema distribuido para demostrar la interoperabilidad entre
 
 ---
 📫 **¿Cómo contactarme?**
-[LinkedIn](http://www.linkedin.com/in/luis-chacha-
-
-) | [GitHub](https://github.com/LuisChacha)
+[LinkedIn](https://www.linkedin.com/in/luis-chacha-) | [GitHub](https://github.com/LuisChacha)
